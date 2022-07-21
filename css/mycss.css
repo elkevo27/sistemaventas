@@ -1,0 +1,45 @@
+
+.icon{
+    width: 40px;
+    height: 40px;
+    margin: 4px;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: all;
+}
+
+.icon:nth-child(1):hover{
+    box-shadow: 0 0 5px rgba(0,178,255,1),
+    0 0 10px rgba(0,178,255,1),
+    0 0 20px rgba(0,178,255,1),
+    0 0 40px rgba(38,104,127,1),
+    0 0 80px rgba(38,104,127,1),
+    0 0 90px rgba(38,104,127,1),
+    0 0 100px rgba(38,104,127,1),
+    0 0 140px rgba(38,104,127,1),
+    0 0 180px rgba(38,104,127,1);
+}
+
+.icon:nth-child(2):hover{
+    box-shadow: 0 0 5px rgb(255, 0, 217),
+    0 0 10px rgb(234, 0, 255),
+    0 0 20px rgb(255, 0, 225),
+    0 0 40px rgb(127, 38, 115),
+    0 0 80px rgb(127, 38, 111),
+    0 0 90px rgb(118, 38, 127),
+    0 0 100px rgb(127, 38, 127),
+    0 0 140px rgb(120, 38, 127),
+    0 0 180px rgb(127, 38, 121);
+}
+
+.icon:nth-child(3):hover{
+    box-shadow: 0 0 5px rgb(232, 10, 10),
+    0 0 10px rgb(255, 0, 55),
+    0 0 20px rgb(255, 0, 89),
+    0 0 40px rgb(127, 38, 38),
+    0 0 80px rgb(127, 38, 38),
+    0 0 90px rgb(127, 38, 38),
+    0 0 100px rgb(127, 38, 38),
+    0 0 140px rgb(127, 38, 38),
+    0 0 180px rgb(127, 38, 38);
+}
